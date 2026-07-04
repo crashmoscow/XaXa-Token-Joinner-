@@ -1,0 +1,3 @@
+tokens.txt
+*.txt
+__pycache__/
